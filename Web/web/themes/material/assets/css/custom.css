@@ -1,0 +1,97 @@
+/*custom*/
+.dicipa-logo {width:50px}
+.topbar,.user-profile {background: #7178b9!important;}
+.navbar-brand span {color:#fff;}
+.topbar ul.dropdown-user li .dw-user-box .u-img img {border-radius:50%;width:100px!important}
+.topbar ul.dropdown-user li .dw-user-box .u-img {width: auto!important;text-align:center}
+.dropdown-user .dw-user-box {text-align:center}
+.dropdown-user .u-text {margin-top:20px;}
+.table-summary {text-align:right;margin-top:10px;}
+.table-search-box {margin-bottom:15px;}
+.btn-primary, .btn-primary.disabled {
+background: #710002!important;
+border: 1px solid #710002!important;
+}
+.user-profile .profile-img {margin: 0 auto!important;padding-bottom:10px!important;width:74px!important;padding: 15px 0 5px 0!important;}
+.user-profile .profile-img img{height:74px!important}
+.user-profile .profile-img:before {width:74px!important;height:74px!important;top:15px!important;}
+.user-profile .profile-text>a{background:transparent!important;text-align:center;padding:10px 5px!important;}
+.sidebar-nav > ul > li.active > a, .sidebar-nav > ul > li.active:hover > a { background: #26c6da !important;}
+.has-error div.help-block {color:red!important;font-weight:bold;font-size:.9em!important}
+img.small {width:32px;height:32px;}
+img.medium {width:64px;height:64px;}
+img.large {width:128px;height:128px;}
+img.xlarge {width:256px;height:256px;}
+img.xxlarge {width:512px;height:512px;}
+.image-circle {border-radius:50%}
+.u-img img {height:100px!important}
+.topbar .profile-pic {height:30px}
+.app-logo img {width:100px}
+span.highlight {padding:0!important;background: #d9db4e!important;}
+ul.pagination .page-item:first-child a {
+position: relative;
+display: block;
+padding: .5rem .75rem;
+margin-left: -1px;
+line-height: 1.25;
+color: #007bff;
+background-color: #fff;
+border: 1px solid #dee2e6;        
+margin-left: 0;
+border-top-left-radius: .25rem;
+border-bottom-left-radius: .25rem;
+}  
+ul.pagination a, ul.pagination span {
+padding: .25rem .5rem;
+font-size: .875rem;
+line-height: 1.5;
+}       
+ul.pagination .page-item:first-child a {
+border-top-left-radius: .2rem;
+border-bottom-left-radius: .2rem;
+}
+ul.pagination .page-item.disabled a {
+color: #6c757d;
+pointer-events: none;
+cursor: auto;
+background-color: #fff;
+border-color: #dee2e6;
+} 
+ul.pagination li a, ul.pagination li span {
+position: relative;
+display: block;
+padding: .5rem .75rem;
+margin-left: -1px;
+line-height: 1.25;
+color: #007bff;
+background-color: #fff;
+border: 1px solid #dee2e6;
+}  
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+background-color: #1e88e5;
+border-color: #1e88e5;
+color:#fff;
+}   
+.user-profile .profile-text {padding-left:10px;padding-right:10px;}
+.sidebar-nav ul li:hover a {
+    color: #7178b9 !important;
+}
+.sidebar-nav ul li:hover i {
+    color: #7178b9 !important;;
+}
+.sidebar-nav > ul > li.active > a, .sidebar-nav ul li.active:hover a,  .sidebar-nav ul li.active:hover  i {
+    color: #fff!important;
+    background: #7178b9 !important;
+}
+.customtab2 li a.nav-link.active {
+	background: #7178b9!important;
+	color: #ffffff;	
+}
+.customtab2 li a.nav-link:hover {
+    color: #ffffff;
+    background: #7178b9!important;
+}
+
+.left-sidebar {
+	padding-bottom:60px;
+}
